@@ -1,0 +1,22 @@
+
+============================================================
+                   AKTIENANALYSE: SAP.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------+------------------------------+
+| Kategorie   | Details                | Erläuterung                  |
++=============+========================+==============================+
+| Unternehmen | SAP SE                 | Name des Unternehmens        |
++-------------+------------------------+------------------------------+
+| Sektor      | Technology             | Wirtschaftssektor            |
++-------------+------------------------+------------------------------+
+| Branche     | Software - Application | Industrie oder Geschäftsfeld |
++-------------+------------------------+------------------------------+
+| Land        | Germany                | Herkunftsland                |
++-------------+------------------------+------------------------------+
+
+Kurzbeschreibung: SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP S/4HANA that provides software capabilities for finance, risk and project manage...
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für PLC gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

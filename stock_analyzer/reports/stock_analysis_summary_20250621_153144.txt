@@ -1,0 +1,153 @@
+===== STOCK ANALYSIS ZUSAMMENFASSUNG (OPTIMIERT) =====
+Datum: Sat Jun 21 03:33:59 PM CEST 2025
+Analysierte Symbole aus: /home/ganzfrisch/finance/stock_analyzer/stock_symbols.txt
+
+EMPFEHLUNGEN:
+--- stock_analysis_005930.KS_20250621_153214.txt ---
+
+--- stock_analysis_0700.HK_20250621_153214.txt ---
+
+--- stock_analysis_7203.T_20250621_153214.txt ---
+
+--- stock_analysis_9984.T_20250621_153214.txt ---
+
+--- stock_analysis_9988.HK_20250621_153214.txt ---
+
+--- stock_analysis_AAPL_20250621_153214.txt ---
+
+--- stock_analysis_ABBV_20250621_153214.txt ---
+
+--- stock_analysis_AES_20250621_153214.txt ---
+
+--- stock_analysis_ALV.DE_20250621_153214.txt ---
+
+--- stock_analysis_AMZN_20250621_153214.txt ---
+
+--- stock_analysis_ASML.AS_20250621_153214.txt ---
+
+--- stock_analysis_AZN.L_20250621_153214.txt ---
+
+--- stock_analysis_BAC_20250621_153214.txt ---
+
+--- stock_analysis_BAS.DE_20250621_153214.txt ---
+
+--- stock_analysis_BAYN.DE_20250621_153214.txt ---
+
+--- stock_analysis_BEP_20250621_153214.txt ---
+
+--- stock_analysis_BMW.DE_20250621_153214.txt ---
+
+--- stock_analysis_BP.L_20250621_153214.txt ---
+
+--- stock_analysis_BYDDF_20250621_153214.txt ---
+
+--- stock_analysis_CRSP_20250621_153214.txt ---
+
+--- stock_analysis_CWEN_20250621_153214.txt ---
+
+--- stock_analysis_DAI.DE_20250621_153214.txt ---
+
+--- stock_analysis_DIS_20250621_153214.txt ---
+
+--- stock_analysis_DPW.DE_20250621_153214.txt ---
+
+--- stock_analysis_DTE.DE_20250621_153214.txt ---
+
+--- stock_analysis_EEM_20250621_153214.txt ---
+
+--- stock_analysis_ENEL.MI_20250621_153214.txt ---
+
+--- stock_analysis_EWG_20250621_153214.txt ---
+
+--- stock_analysis_EWJ_20250621_153214.txt ---
+
+--- stock_analysis_FRA.DE_20250621_153214.txt ---
+
+--- stock_analysis_FSRN_20250621_153214.txt ---
+
+--- stock_analysis_GILD_20250621_153214.txt ---
+
+--- stock_analysis_GLD_20250621_153214.txt ---
+
+--- stock_analysis_GOOG_20250621_153214.txt ---
+
+--- stock_analysis_HD_20250621_153214.txt ---
+
+--- stock_analysis_IBE.MC_20250621_153214.txt ---
+
+--- stock_analysis_IFX.DE_20250621_153214.txt ---
+
+--- stock_analysis_ISP.MI_20250621_153214.txt ---
+
+--- stock_analysis_IWM_20250621_153214.txt ---
+
+--- stock_analysis_JNJ_20250621_153214.txt ---
+
+--- stock_analysis_JPM_20250621_153214.txt ---
+
+--- stock_analysis_LCID_20250621_153214.txt ---
+
+--- stock_analysis_LHA.DE_20250621_153214.txt ---
+
+--- stock_analysis_LI_20250621_153214.txt ---
+
+--- stock_analysis_MBG.DE_20250621_153214.txt ---
+
+--- stock_analysis_MC.PA_20250621_153214.txt ---
+
+--- stock_analysis_MDT_20250621_153214.txt ---
+
+--- stock_analysis_META_20250621_153214.txt ---
+
+--- stock_analysis_MSFT_20250621_153214.txt ---
+
+--- stock_analysis_NEP_20250621_153214.txt ---
+
+--- stock_analysis_NESN.SW_20250621_153214.txt ---
+
+--- stock_analysis_NIO_20250621_153214.txt ---
+
+--- stock_analysis_NOV.DE_20250621_153214.txt ---
+
+--- stock_analysis_NOVN.SW_20250621_153214.txt ---
+
+--- stock_analysis_NPIFF_20250621_153214.txt ---
+
+--- stock_analysis_NVDA_20250621_153214.txt ---
+
+--- stock_analysis_OR.PA_20250621_153214.txt ---
+
+--- stock_analysis_PANW_20250621_153214.txt ---
+
+--- stock_analysis_PG_20250621_153214.txt ---
+
+--- stock_analysis_QQQ_20250621_153214.txt ---
+
+--- stock_analysis_RIVN_20250621_153214.txt ---
+
+--- stock_analysis_ROG.SW_20250621_153214.txt ---
+
+--- stock_analysis_SAP.DE_20250621_153214.txt ---
+
+--- stock_analysis_SHEL.L_20250621_153214.txt ---
+
+--- stock_analysis_SIE.DE_20250621_153214.txt ---
+
+--- stock_analysis_SPY_20250621_153214.txt ---
+
+--- stock_analysis_TMO_20250621_153214.txt ---
+
+--- stock_analysis_TSLA_20250621_153214.txt ---
+
+--- stock_analysis_UL.AS_20250621_153214.txt ---
+
+--- stock_analysis_VOW3.DE_20250621_153214.txt ---
+
+--- stock_analysis_VTI_20250621_153214.txt ---
+
+--- stock_analysis_V_20250621_153214.txt ---
+
+--- stock_analysis_WMT_20250621_153214.txt ---
+
+--- stock_analysis_XPEV_20250621_153214.txt ---
+

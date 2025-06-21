@@ -1,0 +1,22 @@
+
+============================================================
+                    AKTIENANALYSE: GOOG                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+--------------------------------+------------------------------+
+| Kategorie   | Details                        | Erläuterung                  |
++=============+================================+==============================+
+| Unternehmen | Alphabet Inc.                  | Name des Unternehmens        |
++-------------+--------------------------------+------------------------------+
+| Sektor      | Communication Services         | Wirtschaftssektor            |
++-------------+--------------------------------+------------------------------+
+| Branche     | Internet Content & Information | Industrie oder Geschäftsfeld |
++-------------+--------------------------------+------------------------------+
+| Land        | United States                  | Herkunftsland                |
++-------------+--------------------------------+------------------------------+
+
+Kurzbeschreibung: Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Clou...
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für INC. gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

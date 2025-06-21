@@ -1,0 +1,22 @@
+
+============================================================
+                   AKTIENANALYSE: IFX.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+--------------------------+------------------------------+
+| Kategorie   | Details                  | Erläuterung                  |
++=============+==========================+==============================+
+| Unternehmen | Infineon Technologies AG | Name des Unternehmens        |
++-------------+--------------------------+------------------------------+
+| Sektor      | Technology               | Wirtschaftssektor            |
++-------------+--------------------------+------------------------------+
+| Branche     | Semiconductors           | Industrie oder Geschäftsfeld |
++-------------+--------------------------+------------------------------+
+| Land        | Germany                  | Herkunftsland                |
++-------------+--------------------------+------------------------------+
+
+Kurzbeschreibung: Infineon Technologies AG engages in the design, development, manufacture, and marketing of semiconductors and semiconductor-based solutions worldwide. Its Automotive segment offers automotive microcon...
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für PALO gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

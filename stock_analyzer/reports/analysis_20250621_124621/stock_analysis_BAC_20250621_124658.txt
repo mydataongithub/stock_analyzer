@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: BAC                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------------------------+------------------------------+
+| Kategorie   | Details                     | Erläuterung                  |
++=============+=============================+==============================+
+| Unternehmen | Bank of America Corporation | Name des Unternehmens        |
++-------------+-----------------------------+------------------------------+
+| Sektor      | Financial Services          | Wirtschaftssektor            |
++-------------+-----------------------------+------------------------------+
+| Branche     | Banks - Diversified         | Industrie oder Geschäftsfeld |
++-------------+-----------------------------+------------------------------+
+| Land        | United States               | Herkunftsland                |
++-------------+-----------------------------+------------------------------+
+
+Kurzbeschreibung: Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large cor...
+
+Historische Daten werden abgerufen...

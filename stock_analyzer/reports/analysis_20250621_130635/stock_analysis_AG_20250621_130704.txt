@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: AG                      
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------------------------+------------------------------+
+| Kategorie   | Details                     | Erläuterung                  |
++=============+=============================+==============================+
+| Unternehmen | First Majestic Silver Corp. | Name des Unternehmens        |
++-------------+-----------------------------+------------------------------+
+| Sektor      | Basic Materials             | Wirtschaftssektor            |
++-------------+-----------------------------+------------------------------+
+| Branche     | Silver                      | Industrie oder Geschäftsfeld |
++-------------+-----------------------------+------------------------------+
+| Land        | Canada                      | Herkunftsland                |
++-------------+-----------------------------+------------------------------+
+
+Kurzbeschreibung: First Majestic Silver Corp. engages in the acquisition, exploration, development, and production of mineral properties in North America. The company explores for silver and gold deposits. Its projects...
+
+Historische Daten werden abgerufen...

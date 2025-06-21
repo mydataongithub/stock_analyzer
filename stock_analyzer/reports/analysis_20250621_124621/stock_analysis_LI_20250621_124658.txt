@@ -1,0 +1,22 @@
+
+============================================================
+                     AKTIENANALYSE: LI                      
+============================================================
+Firmendaten werden abgerufen...
++-------------+--------------------+------------------------------+
+| Kategorie   | Details            | Erläuterung                  |
++=============+====================+==============================+
+| Unternehmen | Li Auto Inc.       | Name des Unternehmens        |
++-------------+--------------------+------------------------------+
+| Sektor      | Consumer Cyclical  | Wirtschaftssektor            |
++-------------+--------------------+------------------------------+
+| Branche     | Auto Manufacturers | Industrie oder Geschäftsfeld |
++-------------+--------------------+------------------------------+
+| Land        | China              | Herkunftsland                |
++-------------+--------------------+------------------------------+
+
+Kurzbeschreibung: Li Auto Inc. operates in the energy vehicle market in the People's Republic of China. It designs, develops, manufactures, and sells premium smart electric vehicles. The company's product line comprise...
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für (GOOGLE) gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

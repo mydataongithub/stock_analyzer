@@ -1,0 +1,22 @@
+
+============================================================
+                   AKTIENANALYSE: SHEL.L                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+----------------------+------------------------------+
+| Kategorie   | Details              | Erläuterung                  |
++=============+======================+==============================+
+| Unternehmen | Shell plc            | Name des Unternehmens        |
++-------------+----------------------+------------------------------+
+| Sektor      | Energy               | Wirtschaftssektor            |
++-------------+----------------------+------------------------------+
+| Branche     | Oil & Gas Integrated | Industrie oder Geschäftsfeld |
++-------------+----------------------+------------------------------+
+| Land        | United Kingdom       | Herkunftsland                |
++-------------+----------------------+------------------------------+
+
+Kurzbeschreibung: Shell plc operates as an energy and petrochemical company Europe, Asia, Oceania, Africa, the United States, and other Americas. It operates through Integrated Gas; Upstream; Marketing; Chemicals and P...
+
+Historische Daten werden abgerufen...
+Fehler: Ticker für AUTOMOTIVE, konnte nicht gefunden werden.
+Fehler: Ticker-Daten für AUTOMOTIVE, konnten nicht gefunden werden.

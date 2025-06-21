@@ -1,0 +1,91 @@
+# Deutsche Aktien
+SAP.DE    # SAP SE
+ALV.DE    # Allianz SE
+BAS.DE    # BASF SE
+BMW.DE    # Bayerische Motoren Werke AG
+DTE.DE    # Deutsche Telekom AG
+SIE.DE    # Siemens AG
+BAYN.DE   # Bayer AG
+DAI.DE    # Daimler AG
+VOW3.DE   # Volkswagen AG
+MBG.DE    # Mercedes-Benz Group AG
+DPW.DE    # Deutsche Post AG
+FRA.DE    # Fraport AG
+IFX.DE    # Infineon Technologies AG
+LHA.DE    # Deutsche Lufthansa AG
+NOV.DE    # Novo Nordisk A/S
+
+# US-Aktien
+AAPL      # Apple Inc.
+MSFT      # Microsoft Corporation
+AMZN      # Amazon.com, Inc.
+GOOG      # Alphabet Inc. (Google)
+META      # Meta Platforms, Inc. (Facebook)
+TSLA      # Tesla, Inc.
+JPM       # JPMorgan Chase & Co.
+V         # Visa Inc.
+JNJ       # Johnson & Johnson
+WMT       # Walmart Inc.
+PG        # Procter & Gamble Co.
+DIS       # The Walt Disney Company
+NVDA      # NVIDIA Corporation
+BAC       # Bank of America Corporation
+HD        # The Home Depot, Inc.
+
+# Europäische Aktien (nicht-deutsch)
+NESN.SW   # Nestlé S.A. (Schweiz)
+ROG.SW    # Roche Holding AG (Schweiz)
+NOVN.SW   # Novartis AG (Schweiz)
+MC.PA     # LVMH Moët Hennessy Louis Vuitton (Frankreich)
+OR.PA     # L'Oréal S.A. (Frankreich)
+UL.AS     # Unilever PLC (Niederlande)
+ASML.AS   # ASML Holding N.V. (Niederlande)
+IBE.MC    # Iberdrola, S.A. (Spanien)
+ENEL.MI   # Enel S.p.A. (Italien)
+ISP.MI    # Intesa Sanpaolo S.p.A. (Italien)
+BP.L      # BP p.l.c. (Großbritannien)
+AZN.L     # AstraZeneca PLC (Großbritannien)
+SHEL.L    # Shell plc (Großbritannien)
+
+# Asiatische Aktien
+9984.T    # SoftBank Group Corp. (Japan)
+7203.T    # Toyota Motor Corporation (Japan)
+005930.KS # Samsung Electronics Co., Ltd. (Südkorea)
+0700.HK   # Tencent Holdings Limited (Hongkong)
+9988.HK   # Alibaba Group Holding Limited (Hongkong)
+
+# Exchange Traded Funds (ETFs)
+SPY       # SPDR S&P 500 ETF Trust
+QQQ       # Invesco QQQ Trust (Nasdaq 100 Index)
+IWM       # iShares Russell 2000 ETF
+VTI       # Vanguard Total Stock Market ETF
+EWG       # iShares MSCI Germany ETF
+EWJ       # iShares MSCI Japan ETF
+GLD       # SPDR Gold Shares
+EEM       # iShares MSCI Emerging Markets ETF
+
+# Megatrend-Aktien – Biotech & Gesundheit
+GILD       # Gilead Sciences, Inc.
+CRSP       # CRISPR Therapeutics AG
+TMO        # Thermo Fisher Scientific Inc.
+ABBV       # AbbVie Inc.
+MDT        # Medtronic plc
+
+# Megatrend-Aktien – Clean Energy & Infrastruktur
+NPIFF      # Northland Power Inc.
+AES        # The AES Corporation
+BEP        # Brookfield Renewable Partners L.P.
+CWEN       # Clearway Energy, Inc.
+NEP        # NextEra Energy Partners, LP
+
+# Megatrend-Aktien – Cybersecurity & Technologie
+PANW       # Palo Alto Networks, Inc.
+
+# Megatrend-Aktien – E-Mobilität
+RIVN       # Rivian Automotive, Inc.
+NIO        # NIO Inc.
+BYDDF      # BYD Company Limited (OTC)
+LCID       # Lucid Group, Inc.
+FSRN       # Fisker Inc.
+XPEV       # XPeng Inc.
+LI         # Li Auto Inc

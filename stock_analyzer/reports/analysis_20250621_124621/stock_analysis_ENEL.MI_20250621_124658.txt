@@ -1,0 +1,20 @@
+
+============================================================
+                   AKTIENANALYSE: ENEL.MI                   
+============================================================
+Firmendaten werden abgerufen...
++-------------+-------------------------+------------------------------+
+| Kategorie   | Details                 | Erläuterung                  |
++=============+=========================+==============================+
+| Unternehmen | Enel SpA                | Name des Unternehmens        |
++-------------+-------------------------+------------------------------+
+| Sektor      | Utilities               | Wirtschaftssektor            |
++-------------+-------------------------+------------------------------+
+| Branche     | Utilities - Diversified | Industrie oder Geschäftsfeld |
++-------------+-------------------------+------------------------------+
+| Land        | Italy                   | Herkunftsland                |
++-------------+-------------------------+------------------------------+
+
+Kurzbeschreibung: Enel SpA operates as an integrated operator in electricity and gas industries worldwide. It operates through Thermal Generation and Trading; Enel Green Power; Enel Grids; and End-user Markets segments...
+
+Historische Daten werden abgerufen...

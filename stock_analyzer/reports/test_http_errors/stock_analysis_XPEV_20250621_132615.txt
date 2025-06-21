@@ -1,0 +1,20 @@
+
+============================================================
+                    AKTIENANALYSE: XPEV                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+--------------------+------------------------------+
+| Kategorie   | Details            | Erläuterung                  |
++=============+====================+==============================+
+| Unternehmen | XPeng Inc.         | Name des Unternehmens        |
++-------------+--------------------+------------------------------+
+| Sektor      | Consumer Cyclical  | Wirtschaftssektor            |
++-------------+--------------------+------------------------------+
+| Branche     | Auto Manufacturers | Industrie oder Geschäftsfeld |
++-------------+--------------------+------------------------------+
+| Land        | China              | Herkunftsland                |
++-------------+--------------------+------------------------------+
+
+Kurzbeschreibung: XPeng Inc. designs, develops, manufactures, and markets smart electric vehicles (EVs) in the People's Republic of China. The company offers P7 and P7i, a four-door sports sedan; G9, a smart EV and a m...
+
+Historische Daten werden abgerufen...

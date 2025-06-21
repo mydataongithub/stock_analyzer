@@ -1,0 +1,20 @@
+
+============================================================
+                    AKTIENANALYSE: ABBV                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------------+------------------------------+
+| Kategorie   | Details                      | Erläuterung                  |
++=============+==============================+==============================+
+| Unternehmen | AbbVie Inc.                  | Name des Unternehmens        |
++-------------+------------------------------+------------------------------+
+| Sektor      | Healthcare                   | Wirtschaftssektor            |
++-------------+------------------------------+------------------------------+
+| Branche     | Drug Manufacturers - General | Industrie oder Geschäftsfeld |
++-------------+------------------------------+------------------------------+
+| Land        | United States                | Herkunftsland                |
++-------------+------------------------------+------------------------------+
+
+Kurzbeschreibung: AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacture, commercialization, and sale of medicines and therapies worldwide. The company offers Humi...
+
+Historische Daten werden abgerufen...

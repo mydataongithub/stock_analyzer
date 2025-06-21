@@ -1,0 +1,20 @@
+
+============================================================
+                    AKTIENANALYSE: NPIFF                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------------------+------------------------------+
+| Kategorie   | Details               | Erläuterung                  |
++=============+=======================+==============================+
+| Unternehmen | Northland Power Inc.  | Name des Unternehmens        |
++-------------+-----------------------+------------------------------+
+| Sektor      | Utilities             | Wirtschaftssektor            |
++-------------+-----------------------+------------------------------+
+| Branche     | Utilities - Renewable | Industrie oder Geschäftsfeld |
++-------------+-----------------------+------------------------------+
+| Land        | Canada                | Herkunftsland                |
++-------------+-----------------------+------------------------------+
+
+Kurzbeschreibung: Northland Power Inc. operates as a power producer in Canada, the Netherlands, Germany, Colombia, Spain, the United States, and internationally. The company produces electricity from renewable resource...
+
+Historische Daten werden abgerufen...

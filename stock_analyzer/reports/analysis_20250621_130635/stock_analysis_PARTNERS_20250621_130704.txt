@@ -1,0 +1,22 @@
+
+============================================================
+                  AKTIENANALYSE: PARTNERS                   
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------+------------------------------+
+| Kategorie   | Details   | Erläuterung                  |
++=============+===========+==============================+
+| Unternehmen | N/A       | Name des Unternehmens        |
++-------------+-----------+------------------------------+
+| Sektor      | N/A       | Wirtschaftssektor            |
++-------------+-----------+------------------------------+
+| Branche     | N/A       | Industrie oder Geschäftsfeld |
++-------------+-----------+------------------------------+
+| Land        | N/A       | Herkunftsland                |
++-------------+-----------+------------------------------+
+
+Kurzbeschreibung: N/A
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für WALT gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

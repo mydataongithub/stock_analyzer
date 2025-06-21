@@ -1,0 +1,22 @@
+
+============================================================
+                   AKTIENANALYSE: MBG.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------+------------------------------+
+| Kategorie   | Details                | Erläuterung                  |
++=============+========================+==============================+
+| Unternehmen | Mercedes-Benz Group AG | Name des Unternehmens        |
++-------------+------------------------+------------------------------+
+| Sektor      | Consumer Cyclical      | Wirtschaftssektor            |
++-------------+------------------------+------------------------------+
+| Branche     | Auto Manufacturers     | Industrie oder Geschäftsfeld |
++-------------+------------------------+------------------------------+
+| Land        | Germany                | Herkunftsland                |
++-------------+------------------------+------------------------------+
+
+Kurzbeschreibung: Mercedes-Benz Group AG operates as an automotive company in Germany and internationally. It operates through Mercedes-Benz Cars, Mercedes-Benz Vans, and Mercedes-Benz Mobility segments. The company de...
+
+Historische Daten werden abgerufen...
+Fehler: Keine historischen Daten für CRISPR gefunden.
+Analyse kann ohne historische Daten nicht fortgesetzt werden.

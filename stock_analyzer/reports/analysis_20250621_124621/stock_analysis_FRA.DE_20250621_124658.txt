@@ -1,0 +1,20 @@
+
+============================================================
+                   AKTIENANALYSE: FRA.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+-------------------------+------------------------------+
+| Kategorie   | Details                 | Erläuterung                  |
++=============+=========================+==============================+
+| Unternehmen | Fraport AG              | Name des Unternehmens        |
++-------------+-------------------------+------------------------------+
+| Sektor      | Industrials             | Wirtschaftssektor            |
++-------------+-------------------------+------------------------------+
+| Branche     | Airports & Air Services | Industrie oder Geschäftsfeld |
++-------------+-------------------------+------------------------------+
+| Land        | Germany                 | Herkunftsland                |
++-------------+-------------------------+------------------------------+
+
+Kurzbeschreibung: Fraport AG owns and operates airports in Germany, rest of Europe, Asia, and the United States. It primarily focuses on the operation of Frankfurt Main airport. The company operates through four segmen...
+
+Historische Daten werden abgerufen...

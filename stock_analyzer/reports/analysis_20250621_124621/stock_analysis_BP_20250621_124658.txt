@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: BP                      
+============================================================
+Firmendaten werden abgerufen...
++-------------+----------------------+------------------------------+
+| Kategorie   | Details              | Erläuterung                  |
++=============+======================+==============================+
+| Unternehmen | BP p.l.c.            | Name des Unternehmens        |
++-------------+----------------------+------------------------------+
+| Sektor      | Energy               | Wirtschaftssektor            |
++-------------+----------------------+------------------------------+
+| Branche     | Oil & Gas Integrated | Industrie oder Geschäftsfeld |
++-------------+----------------------+------------------------------+
+| Land        | United Kingdom       | Herkunftsland                |
++-------------+----------------------+------------------------------+
+
+Kurzbeschreibung: BP p.l.c., an integrated energy company, provides carbon products and services. The company operates through Gas & Low Carbon Energy, Oil Production & Operations, and Customers & Products segments. It...
+
+Historische Daten werden abgerufen...

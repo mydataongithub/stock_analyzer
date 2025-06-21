@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: BYD                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+-------------------------+------------------------------+
+| Kategorie   | Details                 | Erläuterung                  |
++=============+=========================+==============================+
+| Unternehmen | Boyd Gaming Corporation | Name des Unternehmens        |
++-------------+-------------------------+------------------------------+
+| Sektor      | Consumer Cyclical       | Wirtschaftssektor            |
++-------------+-------------------------+------------------------------+
+| Branche     | Resorts & Casinos       | Industrie oder Geschäftsfeld |
++-------------+-------------------------+------------------------------+
+| Land        | United States           | Herkunftsland                |
++-------------+-------------------------+------------------------------+
+
+Kurzbeschreibung: Boyd Gaming Corporation, together with its subsidiaries, operates as a multi-jurisdictional gaming company in the United States and Canada. It operates through Las Vegas Locals, Downtown Las Vegas, Mi...
+
+Historische Daten werden abgerufen...

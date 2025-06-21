@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: MDT                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------------+------------------------------+
+| Kategorie   | Details         | Erläuterung                  |
++=============+=================+==============================+
+| Unternehmen | Medtronic plc   | Name des Unternehmens        |
++-------------+-----------------+------------------------------+
+| Sektor      | Healthcare      | Wirtschaftssektor            |
++-------------+-----------------+------------------------------+
+| Branche     | Medical Devices | Industrie oder Geschäftsfeld |
++-------------+-----------------+------------------------------+
+| Land        | Ireland         | Herkunftsland                |
++-------------+-----------------+------------------------------+
+
+Kurzbeschreibung: Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients worldwide. The Cardiovascular Portfolio segment offers implan...
+
+Historische Daten werden abgerufen...

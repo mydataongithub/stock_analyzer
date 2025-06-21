@@ -1,0 +1,20 @@
+
+============================================================
+                   AKTIENANALYSE: LHA.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+-----------------------+------------------------------+
+| Kategorie   | Details               | Erläuterung                  |
++=============+=======================+==============================+
+| Unternehmen | Deutsche Lufthansa AG | Name des Unternehmens        |
++-------------+-----------------------+------------------------------+
+| Sektor      | Industrials           | Wirtschaftssektor            |
++-------------+-----------------------+------------------------------+
+| Branche     | Airlines              | Industrie oder Geschäftsfeld |
++-------------+-----------------------+------------------------------+
+| Land        | Germany               | Herkunftsland                |
++-------------+-----------------------+------------------------------+
+
+Kurzbeschreibung: Deutsche Lufthansa AG operates as an aviation company in Germany and internationally. It operates in three segments: Passenger Airlines; Logistics; and Maintenance, Repair and Overhaul Services (MRO)....
+
+Historische Daten werden abgerufen...

@@ -1,0 +1,20 @@
+
+============================================================
+                   AKTIENANALYSE: NOV.DE                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------------+------------------------------+
+| Kategorie   | Details                      | Erläuterung                  |
++=============+==============================+==============================+
+| Unternehmen | Novo Nordisk A/S             | Name des Unternehmens        |
++-------------+------------------------------+------------------------------+
+| Sektor      | Healthcare                   | Wirtschaftssektor            |
++-------------+------------------------------+------------------------------+
+| Branche     | Drug Manufacturers - General | Industrie oder Geschäftsfeld |
++-------------+------------------------------+------------------------------+
+| Land        | Denmark                      | Herkunftsland                |
++-------------+------------------------------+------------------------------+
+
+Kurzbeschreibung: Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products in Europe, the Middle East, Africa, Mainland China, ...
+
+Historische Daten werden abgerufen...

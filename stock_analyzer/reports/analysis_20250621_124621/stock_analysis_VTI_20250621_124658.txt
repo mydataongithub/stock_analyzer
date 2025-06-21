@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: VTI                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+---------------------------------------------------+------------------------------+
+| Kategorie   | Details                                           | Erläuterung                  |
++=============+===================================================+==============================+
+| Unternehmen | Vanguard Total Stock Market Index Fund ETF Shares | Name des Unternehmens        |
++-------------+---------------------------------------------------+------------------------------+
+| Sektor      | N/A                                               | Wirtschaftssektor            |
++-------------+---------------------------------------------------+------------------------------+
+| Branche     | N/A                                               | Industrie oder Geschäftsfeld |
++-------------+---------------------------------------------------+------------------------------+
+| Land        | N/A                                               | Herkunftsland                |
++-------------+---------------------------------------------------+------------------------------+
+
+Kurzbeschreibung: The fund employs an indexing investment approach designed to track the performance of the index, which represents approximately 100% of the investable U.S. stock market and includes large-, mid-, smal...
+
+Historische Daten werden abgerufen...

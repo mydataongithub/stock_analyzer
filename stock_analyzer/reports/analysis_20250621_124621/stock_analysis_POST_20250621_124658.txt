@@ -1,0 +1,20 @@
+
+============================================================
+                    AKTIENANALYSE: POST                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+---------------------+------------------------------+
+| Kategorie   | Details             | Erläuterung                  |
++=============+=====================+==============================+
+| Unternehmen | Post Holdings, Inc. | Name des Unternehmens        |
++-------------+---------------------+------------------------------+
+| Sektor      | Consumer Defensive  | Wirtschaftssektor            |
++-------------+---------------------+------------------------------+
+| Branche     | Packaged Foods      | Industrie oder Geschäftsfeld |
++-------------+---------------------+------------------------------+
+| Land        | United States       | Herkunftsland                |
++-------------+---------------------+------------------------------+
+
+Kurzbeschreibung: Post Holdings, Inc. operates as a consumer packaged goods holding company in the United States and internationally. It operates through four segments: Post Consumer Brands, Weetabix, Foodservice, and ...
+
+Historische Daten werden abgerufen...

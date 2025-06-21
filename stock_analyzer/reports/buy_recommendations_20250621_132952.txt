@@ -1,0 +1,63 @@
+===== AKTIEN MIT KAUFEMPFEHLUNG (OPTIMIERT) =====
+Datum: Sat Jun 21 01:30:34 PM CEST 2025
+
+KAUFEMPFEHLUNGEN:
+
+Symbol: BAYN.DE
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+Kursziel: Analysten-Kursziel
+Upside: Upside-Potenzial
+DCF-Wert: 106.93245821888647
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+
+Symbol: BMW.DE
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+Kursziel: Analysten-Kursziel
+Upside: Upside-Potenzial
+DCF-Wert: 161.0782592738987
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+
+Symbol: JNJ
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+Kursziel: Analysten-Kursziel
+Upside: Upside-Potenzial
+DCF-Wert: 111.82927343018558
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+
+Symbol: MBG.DE
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+Kursziel: Analysten-Kursziel
+Upside: Upside-Potenzial
+DCF-Wert: 110.8407258107744
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+
+Symbol: NOV.DE
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+DCF-Wert: 369.64879811560746
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+
+Symbol: VOW3.DE
+Unternehmen: Unternehmen
+Aktueller Kurs: Aktueller Kurs
+Kursziel: Analysten-Kursziel
+Upside: Upside-Potenzial
+DCF-Wert: 2336.940365645868
+Stärken: Stärken
+Schwächen: Schwächen/Risiken
+----------------------------------------
+

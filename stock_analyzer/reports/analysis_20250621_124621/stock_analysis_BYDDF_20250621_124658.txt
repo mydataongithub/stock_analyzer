@@ -1,0 +1,20 @@
+
+============================================================
+                    AKTIENANALYSE: BYDDF                    
+============================================================
+Firmendaten werden abgerufen...
++-------------+---------------------+------------------------------+
+| Kategorie   | Details             | Erläuterung                  |
++=============+=====================+==============================+
+| Unternehmen | BYD Company Limited | Name des Unternehmens        |
++-------------+---------------------+------------------------------+
+| Sektor      | Consumer Cyclical   | Wirtschaftssektor            |
++-------------+---------------------+------------------------------+
+| Branche     | Auto Manufacturers  | Industrie oder Geschäftsfeld |
++-------------+---------------------+------------------------------+
+| Land        | China               | Herkunftsland                |
++-------------+---------------------+------------------------------+
+
+Kurzbeschreibung: BYD Company Limited, together with its subsidiaries, engages in automobiles and batteries business in the People's Republic of China, Hong Kong, Macau, Taiwan, and internationally. It operates in two ...
+
+Historische Daten werden abgerufen...

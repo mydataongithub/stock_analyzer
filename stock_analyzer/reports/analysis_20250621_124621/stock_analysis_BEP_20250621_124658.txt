@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: BEP                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------------------+------------------------------+
+| Kategorie   | Details                            | Erläuterung                  |
++=============+====================================+==============================+
+| Unternehmen | Brookfield Renewable Partners L.P. | Name des Unternehmens        |
++-------------+------------------------------------+------------------------------+
+| Sektor      | Utilities                          | Wirtschaftssektor            |
++-------------+------------------------------------+------------------------------+
+| Branche     | Utilities - Renewable              | Industrie oder Geschäftsfeld |
++-------------+------------------------------------+------------------------------+
+| Land        | Canada                             | Herkunftsland                |
++-------------+------------------------------------+------------------------------+
+
+Kurzbeschreibung: Brookfield Renewable Partners L.P. owns a portfolio of renewable power generating facilities in North America, Colombia, and Brazil. The company generates electricity through hydroelectric, wind, sola...
+
+Historische Daten werden abgerufen...

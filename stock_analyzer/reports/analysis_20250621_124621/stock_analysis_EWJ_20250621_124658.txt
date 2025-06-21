@@ -1,0 +1,20 @@
+
+============================================================
+                     AKTIENANALYSE: EWJ                     
+============================================================
+Firmendaten werden abgerufen...
++-------------+------------------------+------------------------------+
+| Kategorie   | Details                | Erläuterung                  |
++=============+========================+==============================+
+| Unternehmen | iShares MSCI Japan ETF | Name des Unternehmens        |
++-------------+------------------------+------------------------------+
+| Sektor      | N/A                    | Wirtschaftssektor            |
++-------------+------------------------+------------------------------+
+| Branche     | N/A                    | Industrie oder Geschäftsfeld |
++-------------+------------------------+------------------------------+
+| Land        | N/A                    | Herkunftsland                |
++-------------+------------------------+------------------------------+
+
+Kurzbeschreibung: The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to ...
+
+Historische Daten werden abgerufen...

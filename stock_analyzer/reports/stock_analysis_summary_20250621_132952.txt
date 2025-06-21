@@ -1,0 +1,47 @@
+===== STOCK ANALYSIS ZUSAMMENFASSUNG (OPTIMIERT) =====
+Datum: Sat Jun 21 01:30:34 PM CEST 2025
+Analysierte Symbole aus: /home/ganzfrisch/finance/stock_analyzer/stock_symbols.txt
+
+EMPFEHLUNGEN:
+--- stock_analysis_AAPL_20250621_133002.txt ---
+
+--- stock_analysis_ALV.DE_20250621_133002.txt ---
+
+--- stock_analysis_BAS.DE_20250621_133002.txt ---
+
+--- stock_analysis_BAYN.DE_20250621_133002.txt ---
+
+--- stock_analysis_BMW.DE_20250621_133002.txt ---
+
+--- stock_analysis_DIS_20250621_133002.txt ---
+
+--- stock_analysis_DTE.DE_20250621_133002.txt ---
+
+--- stock_analysis_FRA.DE_20250621_133002.txt ---
+
+--- stock_analysis_GOOG_20250621_133002.txt ---
+
+--- stock_analysis_IFX.DE_20250621_133002.txt ---
+
+--- stock_analysis_JNJ_20250621_133002.txt ---
+
+--- stock_analysis_MBG.DE_20250621_133002.txt ---
+
+--- stock_analysis_META_20250621_133002.txt ---
+
+--- stock_analysis_MSFT_20250621_133002.txt ---
+
+--- stock_analysis_NOV.DE_20250621_133002.txt ---
+
+--- stock_analysis_NVDA_20250621_133002.txt ---
+
+--- stock_analysis_PG_20250621_133002.txt ---
+
+--- stock_analysis_SAP.DE_20250621_133002.txt ---
+
+--- stock_analysis_SIE.DE_20250621_133002.txt ---
+
+--- stock_analysis_TSLA_20250621_133002.txt ---
+
+--- stock_analysis_VOW3.DE_20250621_133002.txt ---
+
